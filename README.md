@@ -1,1 +1,1 @@
-# Sudoko_alg
+## Sudoko Algorithm
